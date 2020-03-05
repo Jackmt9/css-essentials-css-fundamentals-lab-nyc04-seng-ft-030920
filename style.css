@@ -17,3 +17,9 @@ nav a {
   padding-right:10px;
   background:grey;
 }
+
+#featured-propery p {
+  font-size: 3px;
+  text-align: center;
+}
+}
