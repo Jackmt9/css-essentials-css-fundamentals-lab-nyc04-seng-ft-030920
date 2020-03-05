@@ -18,4 +18,8 @@ nav a {
   background:grey;
 }
 
-
+#featured-propery p {
+  font-size: 3px;
+  text-align: center;
+}
+}
